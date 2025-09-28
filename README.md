@@ -1,52 +1,145 @@
-<h1 align="center"><b>❤️ Hey there! I'm Pulitha  ❤️</b></h1>
+<div align="center">
 
+# 👋 Hello, I'm Pulitha Sethnindu
 
-<p align="center">
- <a href="https://github.com/PulithaSethnindu01" alt="made-with-python"> <img src="https://github.com/PulithaSethnindu01/PulithaSethnindu01/blob/main/Media/Hi.gif"width="50" /></a><a href="https://github.com/PulithaSethnindu01" alt="made-with-python"> <img src="https://github.com/PulithaSethnindu01/PulithaSethnindu01/blob/main/Media/Hi.gif"width="50" /></a><a href="https://github.com/PulithaSethnindu01" alt="made-with-python"> <img src="https://github.com/PulithaSethnindu01/PulithaSethnindu01/blob/main/Media/Hi.gif"width="50" /></a><a href="https://github.com/PulithaSethnindu01" alt="made-with-python"> <img src="https://github.com/PulithaSethnindu01/PulithaSethnindu01/blob/main/Media/Hi.gif"width="50" /></a><a href="https://github.com/PulithaSethnindu01" alt="made-with-python"> <img src="https://github.com/PulithaSethnindu01/PulithaSethnindu01/blob/main/Media/Hi.gif"width="50" /></a><a href="https://github.com/PulithaSethnindu01" alt="made-with-python"> <img src="https://github.com/PulithaSethnindu01/PulithaSethnindu01/blob/main/Media/Hi.gif"width="50" /></a>
-</p>
+### 🚀 Full Stack Developer | 💻 Tech Enthusiast | 🌟 Open Source Contributor
 
+<img src="https://github.com/PulithaSethnindu01/PulithaSethnindu01/blob/main/Media/gif3.gif" width="400" alt="Coding Animation">
 
+[![Profile Views](https://komarev.com/ghpvc/?username=PulithaSethnindu01&color=brightgreen&style=flat-square&label=Profile+Views)](https://github.com/PulithaSethnindu01)
+[![GitHub followers](https://img.shields.io/github/followers/PulithaSethnindu01?label=Followers&style=social)](https://github.com/PulithaSethnindu01)
+[![GitHub stars](https://img.shields.io/github/stars/PulithaSethnindu01?label=Stars&style=social)](https://github.com/PulithaSethnindu01)
 
+</div>
 
-<p align="center"><a href="https://github.com/PulithaSethnindu01"><img src="https://github.com/PulithaSethnindu01/PulithaSethnindu01/blob/main/Media/gif3.gif" width="500"></a></p>
+---
 
-<p align="center"><img src="https://profile-counter.glitch.me/PulithaSethnindu01/count.svg" /><br>Profile Viewers</div></p>
+## 🎯 About Me
 
+```typescript
+const pulitha = {
+    pronouns: "He/Him",
+    location: "Sri Lanka 🇱🇰",
+    currentFocus: "Full Stack Development",
+    learning: ["Machine Learning", "Cloud Computing", "DevOps"],
+    hobbies: ["Coding", "Problem Solving", "Tech Blogging"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
-<h2 align="left">Languages Learning</h2>
-<!-- programming langs i work-->
-<p align="left">
-<a href="https://github.com/PulithaSethnindu01"><img src="https://i.ibb.co/g6xRn5j/ebb6af261fc4.png" width="50px" height="50px"/></a>
-<a href="https://github.com/PulithaSethnindu01"><img src="https://i.ibb.co/fxdjzm3/651b38bc8ab6.png" width="50px" height="50px"/></a>
-<a href="https://github.com/PulithaSethnindu01"><img src="https://i.ibb.co/SfjbmYJ/d007afb6b40e.png" width="50px" height="50px"/></a>
-<a href="https://github.com/PulithaSethnindu01"><img src="https://i.ibb.co/4snFd5N/6cfd03aa4894.png" width="50px" height="50px"/></a>
-<a href="https://github.com/PulithaSethnindu01"><img src="https://i.ibb.co/4W2GHjM/4a7d2d39ab90.png" width="50px" height="50px"/></a>
- 
-<h2><b>
-    Currently Working On...</b><h2>
-    
-    <p align="left">
-      <a href="https://github.com/PulithaSethnindu/Pulibot"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pulithasethnindu&repo=Pulibot&theme=chartreuse-dark&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&disable_animations=false"></a>
-    </p>
-    
-    ***
-    
-<h2><b>About My Profile</h2></b>
-<p align="center">
-  <a href="https://github.com/PulithaSethnindu01"><img width="550" src="https://github-readme-stats.vercel.app/api?username=PulithaSethnindu01&show_icons=true&theme=chartreuse-dark&&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&include_all_commits=true&count_private=true&disable_animations=false&custom_title=About+✬Pulitha Sethnindu✬+'s+GitHub+Profile"></a>
-</p>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://github.com/PulithaSethnindu01"><img width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulithaSethnindu01&layout=compact&show_icons=true&theme=chartreuse-dark&&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&langs_count=20&disable_animations=false"></a>
-</p>
+<div align="center">
 
-<br>   🏆 GitHub Awards<br><br>
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=PulithaSethnindu01&theme=darkhub)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<details>
- <summary>&#127942<b>GitHub Activity</b></summary><br/>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Metrics](https://metrics.lecoq.io/PulithaSethnindu01?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&people=1&gists=1&followup=1&lines=1&activity=1&achievements=1&discussions=1&notable=1&repositories=1&code=1&pagespeed=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=true&code.lines=12&code.load=100&code.visibility=public&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FColombo)
-</details>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Pulibot](https://github-readme-stats.vercel.app/api/pin/?username=PulithaSethnindu01&repo=Pulibot&theme=tokyonight&border_color=7F3FBF&border_radius=10)](https://github.com/PulithaSethnindu01/Pulibot)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PulithaSethnindu01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7F3FBF&border_radius=10" alt="Pulitha's GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulithaSethnindu01&layout=compact&theme=tokyonight&border_color=7F3FBF&border_radius=10" alt="Pulitha's Top Languages"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PulithaSethnindu01&theme=tokyonight&border=7F3FBF&border_radius=10)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PulithaSethnindu01&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Pulitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PulithaSethnindu01&theme=tokyo-night&border_color=7F3FBF&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pulitha-sethnindu)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pulitha_dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pulitha.dev)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pulitha)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pulitha.dev@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🎵 Currently Vibing To
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+
+---
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
+
+**✨ "Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+*Thanks for visiting my profile! Have a great day! 🌟*
+
+</div>
